@@ -1,0 +1,9 @@
+Libreria para usar iconos localmente
+npm install react-icons --save
+https://www.npmjs.com/package/react-icons
+
+Dependencias necesarias (mirar el package json)
+
+npm react-router-bootstrap
+
+match.params.id ====== Esto es para coger el id de un elemento que se para por el router
